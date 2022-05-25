@@ -14,4 +14,4 @@ add-on board | Arduino Pro Micro | - | [Brook PS3/PS4](https://www.brookaccessor
 onboard chip | - | ATmega32U4 | - | RP2040 | RP2040
 port | micro USB | USB-C | USB-C | USB-C | USB-C
 SMT assembly required | no | yes | yes | yes | yes
-firmware | [ATmega32U4](firmware-atmega32u4) | [ATmega32U4](firmware-atmega32u4) | [Brook](https://www.brookaccessory.com/download/PS3/) | [RP2040](firmware-rp2040) | [RP2040](firmware-rp2040_rgb)
+firmware | [ATmega32U4](firmware-atmega32u4) | [ATmega32U4](firmware-atmega32u4) | [Brook](https://www.brookaccessory.com/download/PS3/) | [RP2040](firmware-rp2040) | [RP2040_RGB](firmware-rp2040_rgb)
