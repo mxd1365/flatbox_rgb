@@ -20,7 +20,7 @@ I used [JLCPCB](https://jlcpcb.com/) to make the PCB and assemble the SMD parts.
 
 The PCB you get from JLCPCB will look like this:
 
-![Flatbox rev4 PCB with SMD parts assembled](images/Flatbox-rev4-pcb-rgb-with-smd-parts.jpg)
+![Flatbox rev4 PCB with SMD parts assembled](images/Flatbox-rev4-pcb_rgb-with-smd-parts.jpg)
 
 For this version you must use hotswap sockets to connect the switches to the board
 
