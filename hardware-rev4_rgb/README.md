@@ -1,6 +1,6 @@
 # Flatbox rev4
 
-This is rev4 of the Flatbox. In this version the PCB includes a microcontroller and USB port. Everything is built in, you only have to add the switches (and flash the firmware).
+This is rev4 of the Flatbox with RBG added for each button. In this version the PCB includes a microcontroller and USB port. Everything is built in, you only have to add the switches (and flash the firmware).
 
 To make one you will need:
 
@@ -22,7 +22,7 @@ The PCB you get from JLCPCB will look like this:
 
 ![Flatbox rev4 PCB with SMD parts assembled](images/Flatbox-rev4-pcb-with-smd-parts.jpg)
 
-The switches can be soldered in directly to the PCB or you can use hotswap sockets. If you want to use hotswap sockets, you will have to print the appropriate bottom part of the case (it's 1mm thicker).
+For this version you must use hotswap sockets to connect the switches to the board
 
 You don't have to use the [code](../firmware-rp2040) included here, you can use any other RP2040-compatible firmware. The included firmware works with the PS3 and PC.
 
