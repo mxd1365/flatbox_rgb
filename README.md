@@ -10,7 +10,7 @@ version | [rev1.1](hardware-rev1.1) | [rev2](hardware-rev2) | [rev3](hardware-re
 ------- | ------------------------- | --------------------- | --------------------- | --------------------- | ---------------------
 case dimensions | 218x128x10mm | 218x130x10mm | 218x130x10mm | 218x130x10mm | 218x130x10mm
 compatibility (using provided firmware) | PC, PS3 | PC, PS3 | PC, PS3, PS4 | PC, PS3 | PC, PS3
-add-on board | Arduino Pro Micro | - | [Brook PS3/PS4](https://www.brookaccessory.com/detail/58690501/) | -
+add-on board | Arduino Pro Micro | - | [Brook PS3/PS4](https://www.brookaccessory.com/detail/58690501/) | - | -
 onboard chip | - | ATmega32U4 | - | RP2040 | RP2040
 port | micro USB | USB-C | USB-C | USB-C | USB-C
 SMT assembly required | no | yes | yes | yes | yes
